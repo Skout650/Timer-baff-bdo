@@ -1,0 +1,11 @@
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\bin\Debug\Таймер забафов.exe.config
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\bin\Debug\Таймер забафов.exe
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\bin\Debug\Таймер забафов.pdb
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер забафов.csprojAssemblyReference.cache
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер_забафов.Form1.resources
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер_забафов.Properties.Resources.resources
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер забафов.csproj.GenerateResource.cache
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер забафов.csproj.CoreCompileInputs.cache
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер забафов.exe
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер забафов.pdb
+C:\Users\Skout\Documents\Таймер забафов\Таймер забафов\obj\Debug\Таймер_забафов.CreateTimerForm.resources
