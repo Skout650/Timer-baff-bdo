@@ -142,6 +142,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="hourglass.ico" />
+    <None Include="Voice acting\Энергия.wav" />
+    <None Include="Voice acting\Свиток мастерства.wav" />
+    <None Include="Voice acting\Зелье шока.wav" />
+    <None Include="Voice acting\Зелье труда.wav" />
+    <None Include="Voice acting\Зелье Смерти.wav" />
+    <None Include="Voice acting\Зелье Смекалки.wav" />
+    <None Include="Voice acting\Зелье ветра.wav" />
+    <None Include="Voice acting\Алхимический камень.wav" />
+    <None Include="Image\1920x1080_1346778.jpg" />
+    <None Include="Voice acting\voice acting.wav" />
+    <None Include="Voice acting\storage_free_60b37901cd3bf388237013.wav" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
